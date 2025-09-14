@@ -3050,7 +3050,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ae4ce90648de554ab03efc5b8aee885, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 7744379041553121089, guid: b8532a02d72ca8c4e8660beddf6b8ad5, type: 3}
+  bulletPrefab: {fileID: 4111968887365279798, guid: a2a0a10b57acb6947a880fa5a958fcd4, type: 3}
   bulletSpawnPoint: {fileID: 782324717}
   bulletMaxImpulse: 10
   maxChargeTime: 3
